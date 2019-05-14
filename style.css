@@ -1,0 +1,29 @@
+header {
+}`
+nav {
+	float: right;
+}
+
+nav ul {
+float: right;
+	list-style: none;
+}
+
+nav li {
+	float: right;
+	display: inline-block;
+	margin-bottom: : 20px;
+	text-transform: uppercase;
+}
+footer {
+		list-style: none;
+
+}
+
+footer ul {
+	list-style: none;
+		display: inline-flex;
+	margin: 10px;
+
+
+}
